@@ -13,3 +13,4 @@ Rebase and merge test
 Rebase and merge test
 
 ## Squash and merge
+Squash and merge
