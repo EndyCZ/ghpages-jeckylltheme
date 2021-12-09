@@ -9,3 +9,4 @@ new text in new branch
 tralala
 
 ## Rebase and merge test
+Rebase and merge test
